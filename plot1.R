@@ -16,3 +16,6 @@ plot1 <- function() {
     ## close screen device
     dev.off()
 }
+
+## Note: also didn't have time to finish the remaining plots - sorry!
+## Been to busy...
